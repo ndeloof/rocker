@@ -1,0 +1,4 @@
+[package]
+name = "rocker"
+version = "0.1.0"
+authors = ["Nicolas De Loof <nicolas.deloof@gmail.com>"]
